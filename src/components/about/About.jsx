@@ -1,6 +1,6 @@
 import "./about.css";
 import Award from "../../img/award.png";
-import LandMark from "../../img/vietnam-g81999e5db_1280.jpg";
+import LandMark from "../../img/vietnam-g44a96d5e0_640.jpg";
 
 const About = () => {
   return (
