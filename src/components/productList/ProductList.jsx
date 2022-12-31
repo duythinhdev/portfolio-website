@@ -1,6 +1,4 @@
 import "./productList.css";
-// import Product from "../product/Product";
-// import { products } from "../../data";
 import image1 from "../../img/featured-hand-react-1800x1040.jpg";
 import image2 from "../../img/1_YxAtSkRVmtOwtY1q81wpQ.jpg";
 import image3 from "../../img/1200px-Node.js_logo.png";
