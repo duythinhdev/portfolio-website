@@ -15,9 +15,7 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            I frontend develop services for customers of all sizes,
-            specializing in creating stylish, modern websites, web services and
-            online stores.
+            I'm frontend develop with skill Javascript,ReactJS,Redux,Redux Toolkit, Redux Saga, Apisauce,Axios, MUI, Bootstrap,Scss,Html,scss, lodash, moment And I know the basics VueJS,VueX,AngularJS
           </p>
         </div>
         <svg
